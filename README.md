@@ -1,12 +1,12 @@
 # $.debounce()
 
-adds [underscore's debounce](http://underscorejs.org/#debounce) functionality to jQuery
+adds [underscore's debounce](http://underscorejs.org/#debounce) to jQuery
 
 ## Example
 
 ```javascript
 var foo = function() {
-  // do something compliated
+  // do something complicated
 }
 
 // run foo once per 60ms (at most) during the window.resize event
