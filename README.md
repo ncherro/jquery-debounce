@@ -2,7 +2,7 @@
 
 adds [underscore's debounce](http://underscorejs.org/#debounce) to jQuery
 
-## Example
+[see this jsfiddle for a live example](http://jsfiddle.net/ncherro/Z8MZR/)
 
 ```javascript
 var foo = function() {
