@@ -7,7 +7,7 @@ var foo = function() {
   // do something compliated
 }
 
-// run foo one time per 60ms at most during the window.resize event
+// run foo once per 60ms (at most) during the window.resize event
 var debouncedResize = $.debounce(foo, 60);
 
 $(window).resize(debouncedResize);
