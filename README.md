@@ -1,8 +1,6 @@
 # $.debounce()
 
-adds [underscorejs debounce](http://underscorejs.org/#debounce) functionality to jQuery
-
-example:
+adds [underscore's debounce](http://underscorejs.org/#debounce) functionality to jQuery
 
 ```javascript
 var foo = function() {
